@@ -84,9 +84,13 @@
   }
 
   iframe {
-    display: block;
-    margin: auto;
-  }
+  width: 100%;
+  max-width: 800px; /* o el ancho máximo que prefieras */
+  height: 450px; /* proporción típica para vídeos o mapas */
+  display: block;
+  margin: 20px auto;
+  border: none;
+}
 
   .imgPrincipal{
     width: 100%;
