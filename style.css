@@ -110,12 +110,14 @@
   h2 {
     margin-top: 0;
     font-size: 1.2rem;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.2rem;
   }
 
   h3 {
+    margin-top: 0;
     margin-bottom: 0.5rem;
-    font-size: 0.95rem;
+    font-size: 0.9rem;
+    color: #03053a;
   }
 
   p {
